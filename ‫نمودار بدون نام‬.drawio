@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T08:49:14.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="3337av_iWhToFI5SFWPj" type="github"><diagram id="hyrn6p12wuLnMgKyT0nz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-22T10:29:25.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="B1Ejpx5wkytmuxwmU_gr" version="20.5.3" type="github">
+  <diagram id="hyrn6p12wuLnMgKyT0nz" name="‫صفحه - 1‬">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8NaKez8RzcLE3Kj16aON-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-1" target="8NaKez8RzcLE3Kj16aON-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="20" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-2" target="8NaKez8RzcLE3Kj16aON-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-2" value="مقدار دهی به&amp;nbsp; EndId&lt;br&gt;و StepCount" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="110" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-5" target="8NaKez8RzcLE3Kj16aON-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-5" target="8NaKez8RzcLE3Kj16aON-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-5" value="آیا در جدول مقصد رکوردی وجود دارد" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="346" y="400" width="123" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-7" target="8NaKez8RzcLE3Kj16aON-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-7" value="مقدار کوچکترین آیدی جدول مبدا به عنوان StarId ست شود" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-10" value="خیر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-11" target="8NaKez8RzcLE3Kj16aON-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-11" value="مقدار بزرگترین آیدی در جدول مقصد به عنوان StartId ست شود" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-19" target="8NaKez8RzcLE3Kj16aON-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.477;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-19" target="8NaKez8RzcLE3Kj16aON-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-19" value="آیا endid=0 هست" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="336.25" y="190" width="142.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-21" target="8NaKez8RzcLE3Kj16aON-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-21" value="بزرگترین آیدی جدول مبدا را به عنوان endid مقدار دهی کن" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-23" value="بله" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-24" value="بله" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="478.75" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-25" value="خیر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-35" target="8NaKez8RzcLE3Kj16aON-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-35" value="Identity_Insrt را برای جدول مقصد تنظیم کن" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-39" value="به دلیل اینکه کوئری طوری نوشته شده که امکان اجرا در چندین مرحله وجود دارد با تنظیم این حالت در دفعات بعدی اجرا کوئری اطمینان حاصل میشود که اطلاعات دچار بهم ریختگی نمیشود" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="565" width="90" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-40" target="8NaKez8RzcLE3Kj16aON-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-40" target="8NaKez8RzcLE3Kj16aON-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-40" value="آیا Startid&amp;lt;endid هست" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185.5" y="708" width="103.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-44" target="8NaKez8RzcLE3Kj16aON-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-44" value="در جرول مبدا از starid تا مجموع startidو stepcount را انتخاب کن و به جدول مقصد کپی کن" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360.75" y="697.5" width="199.25" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-46" value="بله" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-47" target="8NaKez8RzcLE3Kj16aON-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-47" value="srartid=startid+stepcount" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="387.38" y="880" width="147.63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-52" value="خیر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125.5" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8NaKez8RzcLE3Kj16aON-53" target="8NaKez8RzcLE3Kj16aON-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-53" value="Identity_Insrt را برای جدول مقصد تنظیم کن" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NaKez8RzcLE3Kj16aON-57" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

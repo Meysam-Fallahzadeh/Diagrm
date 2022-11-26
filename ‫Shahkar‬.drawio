@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T12:20:26.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hUBV8o_0PkXqG6iElUFx" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T12:25:53.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RasBKzMk0gOK16JYk3YG" version="20.5.3" type="github">
   <diagram id="2LvSaUD_2NbDKwtUgUR4" name="‫صفحه - 1‬">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,9 +52,6 @@
             <mxPoint x="172" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;دریافت لیست قراردادهای قابل امضاء&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="181.25" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="172" y="258" as="sourcePoint" />
@@ -97,9 +94,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;استعلام شماره موبایل&lt;br style=&quot;&quot;&gt;لیست دیتا شاهکار&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="425" y="227" width="160" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="300" as="sourcePoint" />
@@ -122,10 +116,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.028;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Riz9hoA4xlr_TVTimCBP-40">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.028;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="172" y="368" as="sourcePoint" />
-            <mxPoint x="362" y="368" as="targetPoint" />
+            <mxPoint x="400.03999999999996" y="370.0039999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
@@ -137,14 +131,8 @@
         <mxCell id="Riz9hoA4xlr_TVTimCBP-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="384" as="sourcePoint" />
-            <mxPoint x="602" y="384.08" as="targetPoint" />
+            <mxPoint x="630" y="384" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-40" value="درخواست شاهکار شدن" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="395" y="352" width="180" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-41" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;(Mobile , Convention Code)&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="416.5" y="386" width="163.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-58" target="Riz9hoA4xlr_TVTimCBP-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,19 +146,19 @@
         <mxCell id="Riz9hoA4xlr_TVTimCBP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-45" target="Riz9hoA4xlr_TVTimCBP-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-45" value="نه" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-45" value="نه" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#67AB9F;gradientColor=none;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="255" y="272" width="20" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-46" target="Riz9hoA4xlr_TVTimCBP-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-46" value="بله" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-46" value="بله" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#67AB9F;gradientColor=none;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="255" y="310" width="20" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-47" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-47" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#67AB9F;gradientColor=none;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="205" y="272" width="20" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-48" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-48" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#67AB9F;gradientColor=none;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="205" y="310" width="20" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;C&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFB570;fontColor=#000000;strokeColor=#C73500;gradientColor=none;swimlaneFillColor=#7EA6E0;gradientDirection=north;" vertex="1" parent="1">
@@ -188,7 +176,7 @@
         <mxCell id="Riz9hoA4xlr_TVTimCBP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-58" target="Riz9hoA4xlr_TVTimCBP-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;آیا شماره شاهکار&lt;br style=&quot;&quot;&gt;است؟(نیدانم)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;آیا شماره شاهکار&lt;br style=&quot;&quot;&gt;است؟(نیدانم)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="298" y="300" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
@@ -222,7 +210,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;دریافت کد ملی&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;دریافت کد ملی&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="680" y="450" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-66" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
@@ -267,9 +255,6 @@
             <mxPoint x="400" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-72" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;شاهکار کردم&lt;/span&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="445" y="540" width="115" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="580" as="sourcePoint" />
@@ -303,7 +288,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-79" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-79" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#67AB9F;gradientColor=none;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="92" y="564" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-84" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-79">
@@ -339,17 +324,13 @@
         <mxCell id="Riz9hoA4xlr_TVTimCBP-124" value="Cinfo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1045" y="124" width="67.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-148" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;انتخاب یک شماره &lt;br style=&quot;&quot;&gt;(در شاهکار هست قطعا)&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="198.75" y="378" width="147.5" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-151" target="Riz9hoA4xlr_TVTimCBP-152">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-151" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;می توانم شاهکار کنم برای مشتری&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="880" y="328" width="110" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-152" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;برای خودت قبلا استعلام کردم&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="880" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Riz9hoA4xlr_TVTimCBP-154" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Riz9hoA4xlr_TVTimCBP-151" target="Riz9hoA4xlr_TVTimCBP-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -357,17 +338,56 @@
             <mxPoint x="840" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-155" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;دریافت قرارداد&lt;/span&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-155" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;دریافت قرارداد&lt;/span&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="445" y="624" width="105" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-159" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;برای خودت قبلا استعلام کردم&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="880" y="240" width="110" height="50" as="geometry" />
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-159" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;برای خودت قبلا استعلام کردم&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="881" y="240" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-160" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;می توانم شاهکار کنم برای مشتری&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-160" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;می توانم شاهکار کنم برای مشتری&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="880" y="328" width="110" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="Riz9hoA4xlr_TVTimCBP-161" value="ارسال پاسخ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-161" value="ارسال پاسخ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#67AB9F;gradientColor=none;strokeColor=#d79b00;fontColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="63" y="618" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-169" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;انتخاب قرارداد&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="60" y="215" width="77.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-172" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;آیا شماره شاهکار برای کس دیگری است؟ نه&lt;/font&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="660" y="328" width="176.75" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-173" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;انتخاب قرارداد&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="215.75" width="77.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-174" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;دریافت لیست قراردادهای قابل امضاء&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="196.88" y="220" width="181.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-175" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;استعلام شماره موبایل&lt;br style=&quot;&quot;&gt;لیست دیتا شاهکار&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="425" y="220" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-176" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;آیا شماره شاهکار برای کس دیگری است؟ نه&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="660" y="328.75" width="176.75" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-177" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;آیا کد ملی و موبایل مطابقت دارد&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490.75" width="180" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-178" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;آپدیت اطلاعات شاهکار&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="660" y="559.75" width="138.38" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-179" value="درخواست شاهکار شدن" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="350" width="180" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-180" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;(Mobile , Convention Code)&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="433" y="386" width="163.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-181" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;انتخاب یک شماره &lt;br style=&quot;&quot;&gt;(در شاهکار هست قطعا)&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="198.75" y="382.38" width="171.25" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-182" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;می خواهی پیش فرض هم کنی؟&lt;/font&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="205" y="543.75" width="165" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Riz9hoA4xlr_TVTimCBP-183" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;شاهکار کردم&lt;/span&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="449" y="540" width="115" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

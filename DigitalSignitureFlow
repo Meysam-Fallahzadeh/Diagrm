@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T06:43:01.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="TMQYvuInz1t8LV7J-Nxj" type="github"><diagram id="0ULLtE2NFvI6D03s3Z2h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-01T05:49:03.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="yIxhZgwu42suDbne9y8u" type="github">
+  <diagram id="ntJvFxRGMPgxTE1JEh9G" name="‫صفحه - 1‬">
+    <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="erKhSqYRAm7rPMa-lhy8-1" target="erKhSqYRAm7rPMa-lhy8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-1" value="&lt;font color=&quot;#000000&quot;&gt;start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="369" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="erKhSqYRAm7rPMa-lhy8-2" target="erKhSqYRAm7rPMa-lhy8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-2" value="&lt;font color=&quot;#000000&quot;&gt;Upload file to FileManager&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="331" y="120" width="166" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="erKhSqYRAm7rPMa-lhy8-4" target="erKhSqYRAm7rPMa-lhy8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-4" value="&lt;font color=&quot;#000000&quot;&gt;Is Uploaded file to FileManager&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="314" y="180" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="erKhSqYRAm7rPMa-lhy8-6" target="erKhSqYRAm7rPMa-lhy8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-6" value="&lt;font color=&quot;#000000&quot;&gt;File Digital Signature&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="erKhSqYRAm7rPMa-lhy8-8" target="erKhSqYRAm7rPMa-lhy8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-8" value="&lt;font color=&quot;#000000&quot;&gt;Is Success&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="351" y="380" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-11" value="&lt;font color=&quot;#000000&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="384" y="880" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="erKhSqYRAm7rPMa-lhy8-15" target="erKhSqYRAm7rPMa-lhy8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-15" value="&lt;font color=&quot;#000000&quot;&gt;Get Contract Identity&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="345" y="480" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="erKhSqYRAm7rPMa-lhy8-17" value="Insert Contract Document" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="167" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
